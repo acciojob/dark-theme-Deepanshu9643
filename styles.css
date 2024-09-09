@@ -1,3 +1,11 @@
+#ptag{
+	display:flex;
+	justify-content:center;
+}
+#swap{
+	
+}
+
 #app{
   height:90vh;
 }
@@ -8,6 +16,8 @@
 
 #swap{
   outline:0;
+	display:flex;
+	justify-content:center;
 }
 
 .button_night{
